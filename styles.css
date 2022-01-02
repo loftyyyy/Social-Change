@@ -1,0 +1,37 @@
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #727272;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: 0.05rem solid #e5e5e5;
+}
+#koala {
+    border-radius: 1in;
+    width: 40px;
+    height: 40px;
+}
+body {
+    background-color: #ffffff;
+background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+a.charles-darwin{
+    text-decoration: none;
+    color: #727272;
+    
+}
+blockquote.blockquote{
+    font-family: Georgia,"Times New Roman",Times,serif  
+}
+dt{
+    font-size: large;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+img.arrow{
+    height: 20px;
+    width: 22px;
+    border-radius: 3in;
+}
