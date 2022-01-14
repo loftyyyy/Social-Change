@@ -1,20 +1,13 @@
-.blog-footer {
-    padding: 2.5rem 0;
-    color: #727272;
-    text-align: center;
-    background-color: #f9f9f9;
-    border-top: 0.05rem solid #e5e5e5;
-}
+
 #koala {
     border-radius: 1in;
     width: 40px;
     height: 40px;
 }
 body {
-    background-color: #F5F5F5;
-background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+    background-color: #FAEEE7;
+background-image: url("https://www.transparenttextures.com/patterns/diagonal-striped-brick.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
-margin: 0;
 }
 a.charles-darwin{
     text-decoration: none;
@@ -59,15 +52,14 @@ img.arrow{
     margin-top: 0;
     margin-bottom: 0;
 }
-a.onToggle{
+a.typeracer{
     color: #727272;
+    text-decoration: none;
 }
-a.onToggle:hover{
+a.typeracer:hover{
     color: white;
+    text-decoration: none;
 }
-.animals{
-    margin-top: 5.5rem;
-}
-#darwin{
-    margin-top: 5.5rem;
+#buttons{
+  margin-top: 1.5rem;
 }
